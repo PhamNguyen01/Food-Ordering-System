@@ -1,10 +1,11 @@
 **Food Ordering System**
 
 
-***Backend: 
+***Backend:*** 
+
 ``npm install --save express``
 
-***Frontend:
+***Frontend:***
 
 Update npm
 ``npm update``
